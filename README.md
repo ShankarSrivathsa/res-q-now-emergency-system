@@ -1,4 +1,4 @@
-# 🚨 HOAX: Emergency Response App
+# 🚨 ResQNow: Emergency System
 
 **ResQNow** is a real-time emergency response application designed to drastically reduce ambulance response time by instantly notifying nearby hospitals and ambulance services with accurate GPS-based location and patient status updates.
 
